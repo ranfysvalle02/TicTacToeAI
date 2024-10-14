@@ -36,6 +36,7 @@ While minimax and neural networks may seem fundamentally different, there are op
 Both minimax and neural networks have their unique strengths and can be applied to a variety of AI tasks. By understanding their complementary nature, we can develop more powerful and versatile AI systems that can excel in both strategic decision-making and data-driven learning.
 
 **The Minimax Algorithm: A Strategic Foundation**
+
 Just as minimax analyzes all potential future states to determine the best move, Doctor Strange evaluates countless possible outcomes in his quest to protect the universe. The two share a common goal: optimizing decisions by considering multiple future scenarios.
 
 While Doctor Strange’s approach relies on magic, the underlying concept of optimizing decisions by anticipating outcomes is a common thread that ties minimax and Strange together.

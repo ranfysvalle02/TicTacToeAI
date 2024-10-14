@@ -1,4 +1,6 @@
 # TicTacToeAI
+![](https://files.realpython.com/media/Build-an-AI-Game-Engine-for-Tic-Tac-Toe-in-Python_Watermarked.b90cdf84c417.jpg)
+__Image credit to [Build a Tic-Tac-Toe Game Engine With an AI Player in Python](https://realpython.com/tic-tac-toe-ai-python/)__
 
 **Introduction**
 

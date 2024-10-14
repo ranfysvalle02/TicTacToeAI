@@ -64,6 +64,8 @@ The synergy between minimax and generative AI is particularly exciting. Generati
 
 **Robotics: A Strategic Playground**
 
+![](humanoid.jpg)
+
 In the realm of robotics, minimax can be a game-changer. By enabling robots to anticipate and react to multiple variables in real-time, minimax can enhance their ability to:
 
 * **Navigate complex environments:** From bustling cities to hazardous terrains, minimax can help robots make informed decisions to avoid obstacles and reach their goals.

@@ -4,6 +4,12 @@ __Image credit to [Build a Tic-Tac-Toe Game Engine With an AI Player in Python](
 
 **Introduction**
 
+```
+note: The minimax algorithm ensures that the AI is playing optimally.
+If you also play optimally, you should be able to force a draw.
+However, winning against an AI that uses the minimax algorithm and goes first is very unlikely.
+```
+
 In the rapidly evolving landscape of artificial intelligence, the **minimax algorithm** has long been a cornerstone of strategic decision-making. Originally designed for two-player games, its potential now extends far beyond the realm of entertainment. As generative AI and advanced robotics continue to push boundaries, minimax emerges as a powerful tool for developing intelligent systems capable of navigating complex and uncertain environments. 
 
 Minimax is primarily a decision tree-based AI. It constructs a tree representing all possible game states and evaluates them recursively. This approach is well-suited for games with a finite number of states and actions.

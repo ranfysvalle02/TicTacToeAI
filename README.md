@@ -10,7 +10,7 @@ Minimax is primarily a decision tree-based AI. It constructs a tree representing
 
 Neural networks, on the other hand, are typically used for tasks involving pattern recognition, prediction, and classification. They are inspired by the structure and function of the human brain and learn from data through training. While neural networks can be used for game playing, they often require large amounts of data and training time to achieve competitive performance compared to algorithms like minimax.
 
-## From Minimax to Neural Networks: A Journey Through AI
+**From Minimax to Neural Networks: A Journey Through AI**
 
 ![](https://swisscognitive.ch/wp-content/uploads/2021/03/Exploration_of_Neural_Networks_SwissCognitive_The_Global_AI_Hub.jpg)
 __Image credit to [Deep Learning: Authentic Exploration of Neural Networks](https://swisscognitive.ch/2021/04/07/exploration-of-neural-networks/)__

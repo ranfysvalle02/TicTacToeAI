@@ -12,6 +12,9 @@ Neural networks, on the other hand, are typically used for tasks involving patte
 
 ## From Minimax to Neural Networks: A Journey Through AI
 
+![](https://swisscognitive.ch/wp-content/uploads/2021/03/Exploration_of_Neural_Networks_SwissCognitive_The_Global_AI_Hub.jpg)
+__Image credit to [Deep Learning: Authentic Exploration of Neural Networks](https://swisscognitive.ch/2021/04/07/exploration-of-neural-networks/)__
+
 **Minimax** and **neural networks** represent two distinct approaches to artificial intelligence, each with its own strengths and limitations. While minimax is well-suited for strategic game-playing, neural networks excel in pattern recognition and learning from data. Let's explore the key differences and potential synergies between these two AI paradigms.
 
 **Minimax: A Strategic Decision Maker**
